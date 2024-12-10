@@ -27,5 +27,5 @@ var max = function(list){
 // const min = (list) => Math.min(...list)
 // const max = (list) => Math.max(...list)
 
-console.log(min([55]))
-console.log(max([56]))
+console.log(min([53, 66, 0, 67, -3]))
+console.log(max([57]))
